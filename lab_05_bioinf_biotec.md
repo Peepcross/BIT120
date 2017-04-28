@@ -50,17 +50,8 @@ Dentro de la página para la muestra Dirty Rock, haz clic en el ícono de gráfi
 		
 #### Trabajo de laboratorio para la próxima semana
 
-El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a <bioinformatica.unab2016@gmail.com> NO al profesor! Envien a este correo los informes hasta el jueves de la semana siguiente a la realización del práctico. La hora límite es las 23:59.
-En el Asunto del correo pongan Informe de Laboratorio 0x así nosotros podemos clasificar automáticamente los informes. Para la próxima semana el Asunto del correo debería ser Informe de Laboratorio 04.
-
-|**Profesor**|**Nombre**|**Correo electrónico**|  
-| ------------- |:-------------:| -----:|
-|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  
-|Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  
-|Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  
-|Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  
-|Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
-
+El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a bit120.unab.republica@gmail.com. Envíen a este correo los informes hasta el jueves de la semana siguiente a la realización del práctico. La hora límite es las 23:59. En el Asunto del correo pongan Informe de Laboratorio 0x así nosotros podemos clasificar automáticamente los informes. Para la próxima semana el Asunto del correo debería ser Informe de Laboratorio 05.
+ 
 La segunda parte tiene que ver con leer el artículo Jansson J, Field D, Fierer N, et al. ***Unlocking the potential of metagenomics through replicated experimental design***. Nature Publishing Group. 2012;30(6):513-520. doi:10.1038/nbt.2235.  
 
 Puedes acceder al artículo [aquí](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Knight_2012.pdf). Recuerda que el contenido de este artículo es el material para el próximo control de entrada.
