@@ -10,14 +10,14 @@ Comencemos por ir a la página donde vamos a trabajar hoy día
 
 - Ve a MG-RAST [aquí](http://metagenomics.anl.gov). Si no estás usando Mozilla te va a aparecer un aviso odioso que dice que el sitio ha sido optimizado para ese explorador. En la práctica no debería haber problemas con usar Safari o Chrome.  
 
-![mgrast](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/mgrast.png)
+![mgrast](https://github.com/Katterinne/BIT120/blob/master/mgrast.png?raw=true)
 
 - Dirígete hacia el ícono del planeta tierra en la esquina superior derecha  
 - La página resultante muestra una tabla con funciones básicas de búsqueda y filtrado. Tómate unos minutos para explorar la tabla y darte una idea de qué tipos de muestras están disponibles para análisis.  
 - Ahora vamos a ubicar y examinar dos proyectos metagenoma del [JVCI Global Ocean Sampling Expedition](http://www.jcvi.org/cms/research/projects/gos/).  
 - Usando las casillas de búsqueda en la tabla, ubica y selecciona la muestra tomada del sitio de buceo [Dirty Rock](http://www.divesitedirectory.com/dive_site_costa_rica_cocos_reef_dirty_rock.html) en las Islas Cocos de Costa Rica.  
 
-![dirtyrock](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/dirtyrock.png)
+![dirtyrock](https://github.com/Katterinne/BIT120/blob/master/dirtyrock.png?raw=true)
 
 
 **Responde las siguientes preguntas asociadas a la muestra:**  
@@ -35,7 +35,7 @@ Comencemos por ir a la página donde vamos a trabajar hoy día
 
 Dentro de la página para la muestra Dirty Rock, haz clic en el ícono de gráfico de barras donde dice "Analyze".  Deberías ver una ventana con las opciones como aparecen abajo.  
 
-![analyze](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/analyze.png)  
+![analyze](https://github.com/Katterinne/BIT120/blob/master/analyze.png?raw=true)  
 
 - Asegúrate de que el e-value esté configurado en -10 y selecciona la visualización de gráfico de barras (la primera).  
 - Haz clic en "Generate"  
@@ -54,6 +54,4 @@ El trabajo de laboratorio para la próxima semana consta de dos partes. La prime
  
 La segunda parte tiene que ver con leer el artículo Jansson J, Field D, Fierer N, et al. ***Unlocking the potential of metagenomics through replicated experimental design***. Nature Publishing Group. 2012;30(6):513-520. doi:10.1038/nbt.2235.  
 
-Puedes acceder al artículo [aquí](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Knight_2012.pdf). Recuerda que el contenido de este artículo es el material para el próximo control de entrada.
-
-
+Puedes descargar el artículo haciendo clic [aquí](https://github.com/Katterinne/BIT120/raw/master/Knight_2012.pdf). Recuerda que el contenido de este artículo es el material para el próximo control de entrada.
