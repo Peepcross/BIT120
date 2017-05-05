@@ -3,6 +3,6 @@
 
 [Laboratorio 05 - Metagenómica](https://github.com/Katterinne/BIT120/blob/master/lab_05_bioinf_biotec.md)
 
-##### Laboratorio 06 - Visualización de Proteínas
+#### Laboratorio 06 - Visualización de Proteínas
 > [ver](https://github.com/Katterinne/BIT120/blob/master/laboratorio6.pdf) o
 > [descargar](https://github.com/Katterinne/BIT120/raw/master/laboratorio6.pdf)
