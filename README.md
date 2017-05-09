@@ -1,10 +1,13 @@
 # BIT120
 ## Laboratorio de Bioinformática para Ingeniería en Biotecnología UNAB
 
-#### Teórico
+### Teórico
 
+[Clase 06 - Visualización, Comparación y Estructura de Proteínas](https://github.com/Katterinne/BIT120/blob/master/Clase-06_VisualizacionProt.pdf) - [pdf](https://github.com/Katterinne/BIT120/raw/master/Clase-06_VisualizacionProt.pdf)
 
-#### Práctico
+[Clase 07 - Predicción de Estructura de Proteínas](https://github.com/Katterinne/BIT120/blob/master/Clase-07_PrediccionProt.pdf) - [pdf](https://github.com/Katterinne/BIT120/raw/master/Clase-07_PrediccionProt.pdf)
+
+### Práctico
 
 [Laboratorio 05 - Metagenómica](https://github.com/Katterinne/BIT120/blob/master/lab_05_bioinf_biotec.md)
 
