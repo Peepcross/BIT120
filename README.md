@@ -17,3 +17,14 @@ Recuerda que puedes encontrar información sobre GitHub [aquí](http://conociend
 [Laboratorio 06 - Visualización de Proteínas](https://github.com/Katterinne/BIT120/blob/master/laboratorio6.pdf) - [pdf](https://github.com/Katterinne/BIT120/raw/master/laboratorio6.pdf)
 
 [Laboratorio 07 - Visualización de Proteínas (2da parte)](https://github.com/Katterinne/BIT120/blob/master/laboratorio07.pdf) - [pdf](https://github.com/Katterinne/BIT120/raw/master/laboratorio07.pdf)
+
+Archivos para el trabajo práctico del laboratorio 07:
+
+kcsa_popcwi.pdb [descargar](https://dl.dropboxusercontent.com/u/73361402/kcsa_popcwi.pdb)
+
+kcsa_popcwi.psf [descargar](https://dl.dropboxusercontent.com/u/73361402/kcsa_popcwi.psf)
+
+ubiquitin.pdb [descargar](https://dl.dropboxusercontent.com/u/73361402/ubiquitin.pdb)
+
+ubiquitin.psf [descargar](https://dl.dropboxusercontent.com/u/73361402/ubiquitin.psf)
+
