@@ -10,6 +10,8 @@ Recuerda que puedes encontrar información sobre GitHub [aquí](http://conociend
 
 [Clase 07 - Predicción de Estructura de Proteínas](https://github.com/Katterinne/BIT120/blob/master/Clase-07_PrediccionProt.pdf) - [pdf](https://github.com/Katterinne/BIT120/raw/master/Clase-07_PrediccionProt.pdf)
 
+[Clase 08 - Modelado por Homología](https://github.com/Katterinne/BIT120/blob/master/homology-modeling.pdf) - [pdf](https://github.com/Katterinne/BIT120/raw/master/homology-modeling.pdf)
+
 ### Práctico
 
 [Laboratorio 05 - Metagenómica](https://github.com/Katterinne/BIT120/blob/master/lab_05_bioinf_biotec.md)
