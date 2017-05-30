@@ -16,6 +16,8 @@ Recuerda que puedes encontrar información sobre GitHub [aquí](http://conociend
 
 #### [Clase 08 - Modelado por Homología](https://github.com/Katterinne/BIT120/blob/master/homology-modeling.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/homology-modeling.pdf)
 
+#### [Clase 09 - Docking](https://github.com/Katterinne/BIT120/blob/master/Clase-09_Docking.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/Clase-09_Docking.pdf)
+
 ### Práctico
 
 #### [Laboratorio 05 - Metagenómica](https://github.com/Katterinne/BIT120/blob/master/lab_05_bioinf_biotec.md)
