@@ -44,6 +44,7 @@ align.py - [descargar](https://github.com/Katterinne/BIT120/raw/master/lab08/ali
 
 model-single.py - [descargar](https://github.com/Katterinne/BIT120/raw/master/lab08/model-single.py.zip)
 
+#### [Laboratorio 09 - DOCKING](https://github.com/Katterinne/BIT120/blob/master/TUTORIAL-DOCKING.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/TUTORIAL-DOCKING.pdf)
 
 ---
 
