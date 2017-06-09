@@ -46,6 +46,8 @@ model-single.py - [descargar](https://github.com/Katterinne/BIT120/raw/master/la
 
 #### [Laboratorio 09 - DOCKING](https://github.com/Katterinne/BIT120/blob/master/TUTORIAL-DOCKING.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/TUTORIAL-DOCKING.pdf)
 
+#### [Laboratorio 10 - Análisis: Simulación Molecular](https://github.com/Katterinne/BIT120/blob/master/lab10.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/lab10.pdf)
+
 ---
 
 ![top](https://github.com/Katterinne/BIT120/blob/master/huincha.jpg?raw=true)
