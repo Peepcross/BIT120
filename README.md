@@ -8,6 +8,8 @@
 ##### Bienvenidos a la continuación del repositorio de su clase de Bioinformática (BIT120). Aquí podrán encontrar las clases teóricas y las guías de laboratorio de la segunda parte del curso.
 Recuerda que puedes encontrar información sobre GitHub [aquí](http://conociendogithub.readthedocs.org/en/latest/data/dinamica-de-uso/) y sobre Markdown [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+---
+
 ### Teórico
 
 #### [Clase 06 - Visualización, Comparación y Estructura de Proteínas](https://github.com/Katterinne/BIT120/blob/master/Clase-06_VisualizacionProt.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/Clase-06_VisualizacionProt.pdf)
@@ -17,6 +19,10 @@ Recuerda que puedes encontrar información sobre GitHub [aquí](http://conociend
 #### [Clase 08 - Modelado por Homología](https://github.com/Katterinne/BIT120/blob/master/homology-modeling.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/homology-modeling.pdf)
 
 #### [Clase 09 - Docking](https://github.com/Katterinne/BIT120/blob/master/Clase-09_Docking.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/Clase-09_Docking.pdf)
+
+#### [Clase 10 - Introduction to Molecular Simulations](https://github.com/Katterinne/BIT120/blob/master/clase10_IntroMolecularSimulation.pdf) - [PDF](https://github.com/Katterinne/BIT120/raw/master/clase10_IntroMolecularSimulation.pdf)
+
+---
 
 ### Práctico
 
