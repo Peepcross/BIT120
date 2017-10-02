@@ -55,3 +55,4 @@ El trabajo de laboratorio para la próxima semana consta de dos partes. La prime
 La segunda parte tiene que ver con leer el artículo Jansson J, Field D, Fierer N, et al. ***Unlocking the potential of metagenomics through replicated experimental design***. Nature Publishing Group. 2012;30(6):513-520. doi:10.1038/nbt.2235.  
 
 Puedes descargar el artículo haciendo clic [aquí](https://github.com/Katterinne/BIT120/raw/master/Knight_2012.pdf). Recuerda que el contenido de este artículo es el material para el próximo control de entrada.
+
